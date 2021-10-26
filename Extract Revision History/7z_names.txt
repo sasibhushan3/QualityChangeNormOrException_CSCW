@@ -1,0 +1,11 @@
+https://dumps.wikimedia.org/enwiki/20200501/enwiki-20200501-pages-meta-history1.xml-p1p898.7z
+https://dumps.wikimedia.org/enwiki/20200501/enwiki-20200501-pages-meta-history1.xml-p899p1899.7z
+https://dumps.wikimedia.org/enwiki/20200501/enwiki-20200501-pages-meta-history1.xml-p1900p2966.7z
+https://dumps.wikimedia.org/enwiki/20200501/enwiki-20200501-pages-meta-history1.xml-p2967p3763.7z
+https://dumps.wikimedia.org/enwiki/20200501/enwiki-20200501-pages-meta-history1.xml-p3764p4468.7z 
+https://dumps.wikimedia.org/enwiki/20200501/enwiki-20200501-pages-meta-history1.xml-p4469p5223.7z
+https://dumps.wikimedia.org/enwiki/20200501/enwiki-20200501-pages-meta-history1.xml-p5224p5848.7z
+https://dumps.wikimedia.org/enwiki/20200501/enwiki-20200501-pages-meta-history1.xml-p5849p6688.7z
+https://dumps.wikimedia.org/enwiki/20200501/enwiki-20200501-pages-meta-history1.xml-p6689p7639.7z
+https://dumps.wikimedia.org/enwiki/20200501/enwiki-20200501-pages-meta-history1.xml-p7640p8528.7z
+https://dumps.wikimedia.org/enwiki/20200501/enwiki-20200501-pages-meta-history1.xml-p8529p9320.7z
