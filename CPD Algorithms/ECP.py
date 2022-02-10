@@ -1,7 +1,7 @@
-''' This code runs the Non-parametric CPD algorithm (ECP) on our time series based dataset of features
-	of the wikipedia articles and the precision, recall and coverage.
-
-	The dataset for a sample set of articles is in sample_dataset.json file
+''' This code runs the Non-parametric (ECP) CPD algorithm on the time series of features. These features are generated from the given set of wikipedia articles and 
+                     their corresponding talk pages. The code computes precision, recall and coverage as the output of ECP algorithm.
+		     
+	The smaple dataset of articles is mentioned in the sample_dataset.json file
 '''
 import argparse
 from __future__ import division
