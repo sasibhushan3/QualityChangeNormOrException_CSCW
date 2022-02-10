@@ -1,7 +1,7 @@
-''' This code runs the Pruned Exact Linear Time (PELT) CPD algorithm on our time series based dataset of features
-	of the wikipedia articles and the precision, recall and coverage.
-
-	The dataset for a sample set of articles is in sample_dataset.json file
+''' This code runs the Pruned Exact Linear Time (PELT) CPD algorithm on the time series of features. These features are generated from the given set of wikipedia articles and 
+                     their corresponding talk pages. The code computes precision, recall and coverage as the output of PELT algorithm.
+		     
+	The smaple dataset of articles is mentioned in the sample_dataset.json file
 '''
 from __future__ import division
 import argparse
