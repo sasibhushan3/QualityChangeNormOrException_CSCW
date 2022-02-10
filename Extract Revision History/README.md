@@ -1,3 +1,4 @@
+
 1. titles.json- This is a sample file containing titles of Wikipedia articles. These articles are selected randomly form our original dataset of 30826 articles.
 2. 7z_names.txt- This file contains the links to Wikipedia dumps for downloading the sample articles.
 3. Extract_Textpages.py- This code downloads all the revisions (i.e, main content) of a given Wikipedia article from the date of its creation to the last version as of June 2019 in our experiment.
