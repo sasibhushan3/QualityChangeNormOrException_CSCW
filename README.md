@@ -5,7 +5,7 @@ This work sheds light on English Wikipedia article quality life cycle from the p
 ### Organization of the folder ###
 
 1. Extract Revision History- The folder contains codes for downloading complete revision history and corresponding quality classes of Wikipedia articles and their talk pages.
-2. Sample Dataset- The folder includes the list of features as described in the paper for a sample set of Wikipedia articles.
+2. Sample Dataset- The folder includes the list of features and human assessed quality lables as described in the paper for a sample set of Wikipedia articles.
 3. CPD algorithms- The folder enlists codes for implementing different Change Point Detection (CPD) algorithms.
 4. ORES analysis- The folder contains codes for comparing the quality change points as detected by ORES with our proposed method of CPD algorithms for the same.
 
