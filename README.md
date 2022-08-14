@@ -16,22 +16,21 @@ Please look into the individual folders for running the codes and producing resu
 
 If you find this work helpful in your research then please cite 
 
+```
 @article{10.1145/3512959,
 author = {Das, Paramita and Guda, Bhanu Prakash Reddy and Seelaboyina, Sasi Bhushan and Sarkar, Soumya and Mukherjee, Animesh},
 title = {Quality Change: Norm or Exception? Measurement, Analysis and Detection of Quality Change in Wikipedia},
 year = {2022},
 issue_date = {April 2022},
 publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
 volume = {6},
 number = {CSCW1},
 url = {https://doi.org/10.1145/3512959},
 doi = {10.1145/3512959},
 journal = {Proc. ACM Hum.-Comput. Interact.},
-month = {apr},
 articleno = {112},
-numpages = {36},
-keywords = {quality classes, wikipedia, change point detection, unsupervised approach}
+numpages = {36}
 }
 
+```
 
