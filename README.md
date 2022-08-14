@@ -21,15 +21,13 @@ If you find this work helpful in your research then please cite
 author = {Das, Paramita and Guda, Bhanu Prakash Reddy and Seelaboyina, Sasi Bhushan and Sarkar, Soumya and Mukherjee, Animesh},
 title = {Quality Change: Norm or Exception? Measurement, Analysis and Detection of Quality Change in Wikipedia},
 year = {2022},
-issue_date = {April 2022},
 publisher = {Association for Computing Machinery},
 volume = {6},
 number = {CSCW1},
 url = {https://doi.org/10.1145/3512959},
 doi = {10.1145/3512959},
 journal = {Proc. ACM Hum.-Comput. Interact.},
-articleno = {112},
-numpages = {36}
+articleno = {112}
 }
 
 ```
